@@ -1,10 +1,12 @@
 ### Hello everyone 👋
 
-My name is Adithya, after spending some time in school trying to figure out how computers work, I worked at Geotab, Cineplex and Wave helping build [Geotab Drive]([url](https://www.geotab.com/fleet-management-solutions/eld/)), [Cineplex Store]([url](https://store.cineplex.com/)), and [Wave Money]([url](https://www.waveapps.com/banking)) respectively. These days it seems that whenever I decide to do a project I end up doing it in either JS/TS, Go or C#, but I'm always somewhat fascinated and playing with stuff outside of my daily use.
+My name is Adithya. After spending some time in school trying to figure out how computers worked, I built some software at Geotab, Cineplex and Wave, specifically I helped build [Geotab Drive](https://www.geotab.com/fleet-management-solutions/eld/), [Cineplex Store](https://store.cineplex.com/), and [Wave Money](https://www.waveapps.com/banking) respectively. 
+
+Genereally whenever I decide to do a project I end up doing its usually in either JS/TS, Go or C#, but I'm always curious and playing with stuff outside of my daily use.
 
 A few interesting things I have built in the past:
-* [CloudCapable]([url](https://github.com/adithya/cloudcapable))
-* [ImageRepo]([url](https://github.com/adithya/image-repo))
+* [CloudCapable](https://github.com/adithya/cloudcapable)
+* [ImageRepo](https://github.com/adithya/image-repo)
 
 
 <!--
