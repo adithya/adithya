@@ -1,6 +1,6 @@
 ### Hello everyone 👋
 
-My name is Adithya. After spending some time in school trying to figure out how computers worked, I built some software at Geotab, Cineplex and Wave, specifically I helped build [Geotab Drive](https://www.geotab.com/fleet-management-solutions/eld/), [Cineplex Store](https://store.cineplex.com/), and [Wave Money](https://www.waveapps.com/banking) respectively. Now I'm working an [Confirm]([url](https://goconfirm.com/)). 
+My name is Adithya. After spending some time in school trying to figure out how computers worked, I built some software at Geotab, Cineplex and Wave, specifically I helped build [Geotab Drive](https://www.geotab.com/fleet-management-solutions/eld/), [Cineplex Store](https://store.cineplex.com/), and [Wave Money](https://www.waveapps.com/banking) respectively. Now I'm working on [Confirm]([url](https://goconfirm.com/)). 
 
 
 <!--
